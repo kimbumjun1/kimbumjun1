@@ -1,6 +1,6 @@
-<h1>###Hi there 👋<h1>
+<h1>Hi there 👋</h1>
 
-<h4>https://bumpang.tistory.com/<h4>
+<h4>https://bumpang.tistory.com/</h4>
 <!--
 **kimbumjun1/kimbumjun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
